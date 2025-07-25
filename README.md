@@ -78,7 +78,7 @@ A futuristic-themed front-end e-commerce website for sneaker shopping. Designed 
 
 Feel free to reach out for collaborations, questions, or internship opportunities:
 
-- 📧 Email: *your.email@example.com*  
+- 📧 Email: *soumyadipom7112005@gmail.com*  
 - 🌐 GitHub: [github.com/APEXPRE123207](https://github.com/APEXPRE123207)
 
 ---
